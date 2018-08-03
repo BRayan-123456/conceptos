@@ -1,0 +1,32 @@
+body{
+	background-color: red;
+}
+h1{
+	text-align: center;
+}
+/*aplicamdo el mismo estilo a p y a code */
+p,code{
+	/*tamaño de la fuente*/
+	font-size: 72;
+}
+p{
+	font-size: 50px;
+}
+em{
+	color:blue;
+	font-size: 50;
+}
+.cur1{
+	/*propiedades de fondo*/
+	background-color:green;
+	font-size: 80;
+}
+.cur2{
+	background-color: yellow;
+	font-size: 30;
+}
+p em{
+	background-color: brown;
+	font-size: 60px;
+	color: pink;
+}
